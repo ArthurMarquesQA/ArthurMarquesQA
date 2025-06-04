@@ -22,7 +22,6 @@
 ---
 
 ## 📚 Projetos de Estudo  
-(Adicione links conforme for criando!)  
 - 🐍 [Scripts de teste em Python](link)  
 - 🎲 [Protótipo de testes para jogos Unity](link)  
 
