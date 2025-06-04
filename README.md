@@ -38,7 +38,7 @@
 ## 🎶 Um Pouco Sobre Mim  
 - 🛠️ Ex-mecânico que migrou para QA — amo resolver problemas!  
 - 🎮 Jogador nas horas vagas (e agora no trabalho também, rs).  
-- 🐈 Pai de pet (gatos são meus chefes).  
+- 🐈 Pai de pet, o nome é Maria Tereza(gatos são meus chefes).  
 - 💃 Dançarino de forró — equilíbrio entre técnica e diversão, assim como QA!  
 
 ---
