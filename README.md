@@ -20,12 +20,6 @@
 
 ---
 
-## 📚 Projetos de Estudo  
-- 🐍 [Scripts de teste em Python](link)  
-- 🎲 [Protótipo de testes para jogos Unity](link)  
-
----
-
 ## 🌍 Conecte-se Comigo  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-vinicius-marques/)  
 [![Email](https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:arthur_xavier@outlook.com.br)  
