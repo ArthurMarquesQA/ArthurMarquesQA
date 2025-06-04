@@ -1,47 +1,83 @@
-# Olá, eu sou Arthur Vinicius Xavier Marques! 👋  
-**Analista de QA | QA para Jogos | Aspirante a Garantia de Qualidade**  
+# Arthur Vinicius Xavier Marques / QA Analyst 👋  
 
-🔍 **Foco:** Garantir a qualidade de software e jogos através de testes meticulosos e automação.  
-🎮 **Paixão:** Unir tecnologia e criatividade na indústria de games.  
-
----
-
-## 🛠️ Habilidades & Ferramentas  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
-![Testes Manuais](https://img.shields.io/badge/-Testes%20Manuais-FFD43B?logo=testrail&logoColor=black)  
-![Automação de Testes](https://img.shields.io/badge/-Automação-25A162?logo=selenium&logoColor=white)  
+<div align="center">
+  <img src="https://img.shields.io/badge/PT--BR-0066CC?style=for-the-badge&logo=duolingo&logoColor=white" alt="Português">
+  <img src="https://img.shields.io/badge/EN-0066CC?style=for-the-badge&logo=duolingo&logoColor=white" alt="English">
+</div>
 
 ---
 
-## 🎯 Objetivos Atuais  
-- 🏆 Conseguir meu primeiro emprego como **Analista de QA**.  
-- 📚 Aprofundar conhecimentos em **automação de testes com Python**.  
-- 🎮 Explorar ferramentas de teste para jogos (Unity Test Framework, Appium).  
+## 🔍 Sobre / About  
+**PT:**  
+Analista de QA | Especialista em QA para Jogos | Migrando da mecânica para tecnologia  
+**EN:**  
+QA Analyst | Game QA Specialist | Transitioning from mechanics to tech  
 
 ---
 
-## 📚 Projetos de Estudo  
-- 🐍 [Scripts de teste em Python]()  
-- 🎲 [Protótipo de testes para jogos Unity]()  
+## 🛠️ Habilidades / Skills  
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Testes_Manuais-FFD43B?logo=testrail&logoColor=black" alt="Testes Manuais">
+  <img src="https://img.shields.io/badge/Automação-25A162?logo=selenium&logoColor=white" alt="Automação">
+</div>
 
 ---
 
-## 🌍 Conecte-se Comigo  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-vinicius-marques/)  
-[![Email](https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:arthur_xavier@outlook.com.br)  
+## 🎯 Objetivos / Goals  
+**PT:**  
+- 🏆 Primeiro emprego como **Analista de QA**  
+- 🐍 Dominar automação com Python  
+- 🎮 Especializar-se em testes para jogos  
+
+**EN:**  
+- 🏆 Land my first **QA Analyst** role  
+- 🐍 Master Python automation  
+- 🎮 Specialize in game testing  
 
 ---
 
-## 🎶 Um Pouco Sobre Mim  
-- 🛠️ Ex-mecânico que migrou para QA — amo resolver problemas!  
-- 🎮 Jogador nas horas vagas (e agora no trabalho também, rs).  
-- 🐈 Pai de pet (gatos são meus chefes).  
-- 💃 Dançarino de forró — equilíbrio entre técnica e diversão, assim como QA!  
+## 📚 Projetos / Projects  
+**PT:**  
+- [Scripts de teste em Python](link) (em andamento)  
+- [Protótipo de testes para Unity](link)  
+
+**EN:**  
+- [Python test scripts](link) (WIP)  
+- [Unity testing prototype](link)  
 
 ---
 
-⭐ **"Qualidade não é acidente, é resultado de esforço inteligente."**  
+## 🌍 Contato / Contact  
+<div>
+  <a href="https://linkedin.com/in/arthur-vinicius-marques/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:arthur_xavier@outlook.com.br">
+    <img src="https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+</div>
+
+---
+
+## 🎶 Curiosidades / Fun Facts  
+**PT:**  
+- 🛠️ Ex-mecânico virou QA  
+- 🐈 Pai de gatos (os verdadeiros chefes)  
+- 💃 Dançarino de forró  
+
+**EN:**  
+- 🛠️ Former mechanic turned QA  
+- 🐈 Cat dad (the real bosses)  
+- 💃 Forró dancer  
+
+---
+
+<div align="center">
+  ⭐ "Quality is not an accident, it's the result of intelligent effort."  
+  ⭐ "Qualidade não é acidente, é resultado de esforço inteligente."  
+</div>
 
 <!---
 ArthurMarquesQA/ArthurMarquesQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
