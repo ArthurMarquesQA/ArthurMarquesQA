@@ -8,7 +8,6 @@
 
 ## 🛠️ Habilidades & Ferramentas  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
 ![Testes Manuais](https://img.shields.io/badge/-Testes%20Manuais-FFD43B?logo=testrail&logoColor=black)  
 ![Automação de Testes](https://img.shields.io/badge/-Automação-25A162?logo=selenium&logoColor=white)  
 
