@@ -7,8 +7,7 @@
 ---
 
 ## 🛠️ Skills & Tools  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)   
 ![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-FFD43B?logo=testrail&logoColor=black)  
 ![Test Automation](https://img.shields.io/badge/-Automation-25A162?logo=selenium&logoColor=white)  
 
