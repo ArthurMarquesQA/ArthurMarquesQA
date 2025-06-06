@@ -1,7 +1,7 @@
 # Olá, eu sou Arthur Vinicius Xavier Marques! 👋  
 **Analista de QA | QA para Jogos | Aspirante a Garantia de Qualidade**  
 
-🔍 **Foco:** Garantir a qualidade de software e jogos através de testes meticulosos e automação.  
+🔍 **Foco:** Garantir a qualidade de software através de testes meticulosos e automação.  
 🎮 **Paixão:** Unir tecnologia e criatividade na indústria de games.  
 
 ---
