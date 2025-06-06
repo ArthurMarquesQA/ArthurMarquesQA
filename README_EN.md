@@ -1,7 +1,7 @@
 # Hi, I'm Arthur Vinicius Xavier Marques! 👋  
 **QA Analyst | Game QA Tester | Quality Assurance Enthusiast**  
 
-🔍 **Focus:** Ensuring software and game quality through meticulous testing and automation.  
+🔍 **Focus:** Ensuring software quality through meticulous testing and automation.  
 🎮 **Passion:** Bridging technology and creativity in the gaming industry.  
 
 ---
